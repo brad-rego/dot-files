@@ -25,7 +25,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 ```
 vim ~/.zshrc
 ```
-### open in general
+### open in your default application
 
 ```
 open ~/.zshrc
