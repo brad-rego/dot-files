@@ -9,7 +9,7 @@ to install type :
 ```
  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-After this installs then type:
+  - After this installs then type:
 ```
 brew installl zsh
 ```
